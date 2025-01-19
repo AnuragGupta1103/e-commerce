@@ -1,0 +1,20 @@
+Bootstrap install command --> npm install react-bootsrap Bootstrap
+Use it in index.js file as --> import 'bootstrap/dist/css/bootsrap.min.css';
+
+React router (for routing) command --> npm install react-router-dom
+
+-----------------
+
+Packages installed are :
+1. express
+2. mongoose
+3. nodemon
+4. cors (Cross origin Resource Sharing)
+
+
+Agar hum chahte hai ki refresh karne ke baad bhi kuch data rhe browser mein, then we "localStorage"
+
+Jo data api mein send karte hai use kehte hai - "payload"
+
+JWT Token --> api authentication
+    token milega jab login karenge
